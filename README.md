@@ -18,3 +18,4 @@ TO DO:
 1) Size selection
 2) Prices and calculate the running total
 3) Persist data
+4) Still Working on View Order History using Firebase 
